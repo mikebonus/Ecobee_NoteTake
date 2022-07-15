@@ -1,4 +1,4 @@
-# EBAY PROJECT </br>
+# ECOBEE PROJECT </br>
 
 <b> 1) This application is based on MVVM design architecture (100% in Kotlin) </b> </br>
 
